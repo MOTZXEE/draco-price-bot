@@ -1,0 +1,14 @@
+{
+  "app": "draco-price-twitch-bot",
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "axios": "^0.22.0",
+    "dotenv": "^10.0.0",
+    "tmi.js": "^1.8.5"
+  },
+  "scripts": {
+    "start": "node bot.js"
+  }
+}
