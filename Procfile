@@ -1,1 +1,2 @@
-Worker: node ./src/bot.js
+heroku scale worker=1
+worker: yarn start
